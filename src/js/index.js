@@ -1,2 +1,4 @@
-const style = require('../styles/main.scss');
-const jquery = require('jquery');
+const customStyle = require('../styles/main.scss');
+
+import 'jquery';
+import 'bootstrap';
